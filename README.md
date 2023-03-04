@@ -1,5 +1,3 @@
-# Portfolio Website
-
-
-My Personal Portfolio made using HTML, CSS and Javascript.
-Link to my Portfolio - https://parulchaddha.github.io/Parul-Portfolio/
+# Parul-Chaddha Portfolio
+My personal portfolio made using HTML, CSS and Javascript.
+If you had any kind of doubts, feedbacks or suggestions. Feel free to contact me. 
